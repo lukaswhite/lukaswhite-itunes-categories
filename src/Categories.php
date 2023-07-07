@@ -130,7 +130,7 @@ class Categories implements \JsonSerializable
                     'Tech News' => ['label'=>$this->translate('Tech News')],
                 ]
             ],
-            'Religion &amp;Spirituality' => [
+            'Religion &amp; Spirituality' => [
                 'label' =>  $this->translate('Religion & Spirituality'),
                 'children'  =>  [
                     'Buddhism' => ['label' => $this->translate('Buddhism')],
